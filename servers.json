@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "TA | Turk Asker Oyunu",
+    "description": "Asker Olup Pkklilari ...",
+    "players": 128,
+    "maxPlayers": 500,
+    "verified": false,
+    "creator": "TA",
+    "tags": ["RP", "Military", "Asker"],
+    "icon": "https://tr.rbxcdn.com/180DAY-79523ba3ca411e19791fbdb59feb1449/256/256/Image/Webp/noFilter",
+    "ip": "play.lsrp.com",
+    "connect": "fivem://connect/play.lsrp.com",
+    "details": {
+      "version": "1.5.2",
+      "lastUpdate": "2 saat önce",
+      "website": "https://lsrp.com",
+      "discord": "https://discord.gg/lsrp"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Turk Sohbet Oyunu",
+    "description": "Turk Dilinde Milletle ...",
+    "creator": "Ardex Games",
+    "verified": true,
+    "gameId": 29547600,
+    "tags": ["RP", "Hangout", "Vibe", "Sohbet"],
+    "discord": "https://discord.gg/turksohbetoyunu",
+    "icon": "https://tr.rbxcdn.com/180DAY-98d91e5b0af0c2540a63dbd3cedee56b/512/512/Image/Webp/noFilter",
+    "ip": "connect.mafiarp.com",
+    "connect": "roblox://placeId=5673965",
+    "details": {
+      "discord": "https://discord.gg/turksohbetoyunu"
+    }
+  }
+]
