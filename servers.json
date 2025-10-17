@@ -2,27 +2,18 @@
   {
     "id": 1,
     "name": "TA | Turk Asker Oyunu",
-    "description": "Asker Olup Pkklilari ...",
-    "players": 128,
-    "maxPlayers": 500,
     "verified": false,
      "gameId": 1167440934,
     "creator": "TA",
     "tags": ["RP", "Military", "Asker"],
     "icon": "https://tr.rbxcdn.com/180DAY-79523ba3ca411e19791fbdb59feb1449/256/256/Image/Webp/noFilter",
-    "ip": "play.lsrp.com",
     "connect": "roblox://placeId=3231515867",
     "details": {
-      "version": "1.5.2",
-      "lastUpdate": "2 saat önce",
-      "website": "https://lsrp.com",
-      "discord": "https://discord.gg/lsrp"
     }
   },
   {
     "id": 2,
     "name": "Turk Sohbet Oyunu",
-    "description": "Turk Dilinde Milletle ...",
     "rgb": true,
     "creator": "Ardex Games",
     "verified": true,
@@ -34,6 +25,18 @@
     "connect": "roblox://placeId=5673965",
     "details": {
       "discord": "https://discord.gg/turksohbetoyunu"
+    },
+      {
+    "id": 2,
+    "name": "[TURK] Chat Games",
+    "rgb": true,
+    "creator": "Osh Games",
+    "verified": true,
+    "gameId": 8493544033,
+    "tags": ["RP", "Hangout", "Vibe", "Sohbet"],
+    "icon": "https://tr.rbxcdn.com/180DAY-5973a49b4230ca02a33eece09ebc4120/150/150/Image/Webp/noFilter",
+    "connect": "roblox://placeId=97437581924187",
+    "details": {
     }
   }
 ]
