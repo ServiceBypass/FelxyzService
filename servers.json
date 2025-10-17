@@ -3,13 +3,12 @@
     "id": 1,
     "name": "TA | Turk Asker Oyunu",
     "verified": false,
-     "gameId": 1167440934,
+    "gameId": 1167440934,
     "creator": "TA",
     "tags": ["RP", "Military", "Asker"],
     "icon": "https://tr.rbxcdn.com/180DAY-79523ba3ca411e19791fbdb59feb1449/256/256/Image/Webp/noFilter",
     "connect": "roblox://placeId=3231515867",
-    "details": {
-    }
+    "details": {}
   },
   {
     "id": 2,
@@ -25,9 +24,10 @@
     "connect": "roblox://placeId=5673965",
     "details": {
       "discord": "https://discord.gg/turksohbetoyunu"
-    },
-      {
-    "id": 2,
+    }
+  },
+  {
+    "id": 3,
     "name": "[TURK] Chat Games",
     "rgb": true,
     "creator": "Osh Games",
@@ -36,7 +36,6 @@
     "tags": ["RP", "Hangout", "Vibe", "Sohbet"],
     "icon": "https://tr.rbxcdn.com/180DAY-5973a49b4230ca02a33eece09ebc4120/150/150/Image/Webp/noFilter",
     "connect": "roblox://placeId=97437581924187",
-    "details": {
-    }
+    "details": {}
   }
 ]
